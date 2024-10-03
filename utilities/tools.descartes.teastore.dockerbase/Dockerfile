@@ -1,4 +1,4 @@
-FROM tomcat:10.0.7-jdk11
+FROM tomcat:10.1.30-jdk11
 MAINTAINER Chair of Software Engineering <se2-it@informatik.uni-wuerzburg.de>
 
 RUN rm /usr/local/tomcat/lib/websocket-api.jar
