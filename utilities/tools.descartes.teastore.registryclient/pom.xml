@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>org.glassfish.jersey.media</groupId>
 			<artifactId>jersey-media-json-jackson</artifactId>
-			<version>3.0.2</version>
+			<version>3.0.12</version>
 		</dependency>
 		<dependency>
 			<groupId>org.glassfish.jersey.core</groupId>
@@ -57,7 +57,7 @@
 		<dependency>
 			<groupId>org.glassfish.jersey.media</groupId>
 			<artifactId>jersey-media-json-jackson</artifactId>
-			<version>3.0.2</version>
+			<version>3.0.12</version>
 		</dependency>
 		<dependency>
 			<!-- Logging framework also used by ribbon -->
